@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 void biggest3() {
     double n1, n2, n3;
